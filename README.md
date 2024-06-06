@@ -5,7 +5,7 @@
 
 <br>
 
-<img align = "right" alt = coding man width = "300" src="giphy.gif">
+<img align = "right" alt = coding man width = "300" src="giphy.webp">
 
 
 - 🔭 I’m currently working on Hindi-English text code switching.
