@@ -1,4 +1,4 @@
-# ✨ Welcome to My Digital Research Lab! ✨
+# ✨ Welcome to My Digital Duniya! ✨
 
 <div align="center">
 
