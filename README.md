@@ -1,4 +1,4 @@
-# ✨ Welcome to My Digital Research Lab! ✨
+# ✨ Welcome to My Digital World! ✨
 
 <div align="center">
 
@@ -209,18 +209,7 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Innovation%20distinguishes%20between%20a%20leader%20and%20a%20follower.&author=Steve%20Jobs&border=true" width="500" />
 </div>
 
-<!-- Rainbow Divider -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## 🐍 Contribution Visualization
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Riya2703/Riya2703/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Riya2703/Riya2703/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Riya2703/Riya2703/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
 
 <!-- Rainbow Divider -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
