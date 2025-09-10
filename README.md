@@ -1,4 +1,4 @@
-# ✨ Welcome to My Digital World! ✨
+# ✨ Welcome to My Digital Research Lab! ✨
 
 <div align="center">
 
@@ -210,7 +210,6 @@
 </div>
 
 
-
 <!-- Rainbow Divider -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
@@ -218,10 +217,8 @@
 
 ### 🌟 "Bridging AI innovation with real-world healthcare impact!" 🌟
 
-![footer](https://capsule-render.vercel.app/api?type=cylinder&color=0:96CEB4,30:45B7D1,60:4ECDC4,100:FF6B6B&height=100&section=footer&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=cylinder&color=0:96CEB4,30:45B7D1,60:4ECDC4,100:FF6B6B&height=120&section=footer&text=✨%20Ready%20for%20Collaborations%20✨&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=40&desc=Passionate%20about%20AI%20in%20Healthcare%20%7C%20Published%20Researcher%20%7C%20Gold%20Medalist&descAlign=50&descAlignY=65&descSize=12)
 
 **✨ Open to research collaborations and innovative healthcare AI projects! ✨**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Passionate+about+AI+in+Healthcare;Published+Researcher+%7C+Gold+Medalist;Ready+for+impactful+collaborations!;Let's+innovate+together!" alt="Closing Message"/>
 
 </div>
