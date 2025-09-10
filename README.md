@@ -216,8 +216,8 @@
 <div align="center">
 
 ### 🌟 "Bridging AI innovation with real-world healthcare impact!" 🌟
+  ![footer](https://capsule-render.vercel.app/api?type=cylinder&color=0:96CEB4,30:45B7D1,60:4ECDC4,100:FF6B6B&height=120§ion=footer&text=✨%20Ready%20for%20Collaborations%20✨&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=40&desc=Passionate%20about%20AI%20%7C%20Published%20Researcher%20%7C%20Gold%20Medalist&descAlign=50&descAlignY=65&descSize=12)
 
-![footer](https://capsule-render.vercel.app/api?type=cylinder&color=0:96CEB4,30:45B7D1,60:4ECDC4,100:FF6B6B&height=120&section=footer&text=✨%20Ready%20for%20Collaborations%20✨&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=40&desc=Passionate%20about%20AI%20in%20Healthcare%20%7C%20Published%20Researcher%20%7C%20Gold%20Medalist&descAlign=50&descAlignY=65&descSize=12)
 
 **✨ Open to research collaborations and innovative healthcare AI projects! ✨**
 
